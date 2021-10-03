@@ -16,6 +16,8 @@ cd fractalascii
 make fractalascii
 sudo chmod +x fractalascii
 ./fractalascii
+# or try
+make run
 ```
 
 # Controls
