@@ -10,11 +10,12 @@ Coding practice, developed on a raspberryPi. License: MIT.
 # Setup
 
 ```shell
-$ sudo apt-get install libncurses5-dev libncursesw5-dev
-$ git clone https://github.com/lukasnee/fractalascii.git
-$ cd fractalascii
-$ make fractalascii
-$ ./fractalascii
+sudo apt-get install libncurses5-dev libncursesw5-dev build-essential make 
+git clone https://github.com/lukasnee/fractalascii.git
+cd fractalascii
+make fractalascii
+sudo chmod +x fractalascii
+./fractalascii
 ```
 
 # Controls
