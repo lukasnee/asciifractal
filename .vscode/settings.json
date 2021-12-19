@@ -3,6 +3,7 @@
         "typeinfo": "c",
         "*.tcc": "c",
         "optional": "c",
-        "random": "c"
+        "random": "c",
+        "stats.h": "c"
     }
 }

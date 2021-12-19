@@ -3,6 +3,6 @@
 
 int main()
 {
-	FractalasciiStart("   `.-~*^+=veam#tqhjfg120368IVM$%&@", 0.50);
-	return 0;
+    FractalasciiStart("   `.-~*^+=veamjfgIVM$%&@", 0.50);
+    return 0;
 }
